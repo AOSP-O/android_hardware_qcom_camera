@@ -58,6 +58,7 @@ LOCAL_C_INCLUDES := \
         $(LOCAL_PATH)/../mm-image-codec/qexif \
         $(LOCAL_PATH)/../mm-image-codec/qomx_core \
         $(LOCAL_PATH)/util \
+        $(LOCAL_PATH)/include \
         $(LOCAL_PATH)/HAL3 \
         $(TARGET_OUT_HEADERS)/mm-core/omxcore
 
